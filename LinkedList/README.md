@@ -2,8 +2,8 @@
 
 Jenis Linked List :
 
-- [Single Linked List](https://github.com/ajisubarkah/linked-list-example#single-linked-list)
-- [Double Linked List](https://github.com/ajisubarkah/linked-list-example#double-linked-list)
+- [Single Linked List](#single-linked-list)
+- [Double Linked List](#double-linked-list)
 
 Deklarasi node :
 
